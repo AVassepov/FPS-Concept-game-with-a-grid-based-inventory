@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfff14bfedc0b44408a76b172f18e871, type: 3}
+  m_Name: Debug Organ Pool
+  m_EditorClassIdentifier: 
+  CommonDrops:
+  - {fileID: 8781767092150094189, guid: 2e41a4ca0912f7f41b2afea8ff2bfce4, type: 3}
+  - {fileID: 8781767092150094189, guid: 5bb681beabce6954987025aa4ed5c7f6, type: 3}
+  RareDrops:
+  - {fileID: 8781767092150094189, guid: ac58fe1ae27abf64fb8e5cf4775e79c4, type: 3}
+  - {fileID: 8781767092150094189, guid: bb040bb2fb22f984e93200e314f26bc9, type: 3}
+  LegendaryDrops:
+  - {fileID: 8781767092150094189, guid: 60a3091b07a44e74dba87c86f111fa55, type: 3}
+  - {fileID: 8781767092150094189, guid: a7f58d88453738a40a6d6bab95d0ef36, type: 3}
